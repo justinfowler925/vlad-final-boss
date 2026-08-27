@@ -1,0 +1,9 @@
+interface:
+  display_name: "Vlad — Final Boss"
+  short_description: "Adversarial handoff gate that demands receipts"
+  icon_small: "./assets/vlad-final-boss.png"
+  icon_large: "./assets/vlad-final-boss.png"
+  default_prompt: "Use $vlad-final-boss to audit the completion claims in this handoff."
+
+policy:
+  allow_implicit_invocation: false
